@@ -1,0 +1,26 @@
+[
+ {
+  "id": "florida",
+  "kicker": "ממולץ · אלכוהול חופשי",
+  "title": "הלוואין בפלורידה",
+  "subtitle": "יום שישי 30.10 · 23:00–04:00 · השרון · בר פתוח כל הלילה · מיינסטרים · מ-₪121",
+  "link": "#event-halloween-florida-30-10",
+  "img": "@BANNER_FLORIDA",
+  "bg": "",
+  "show_from": "2026-10-26",
+  "show_until": "2026-10-31",
+  "sort": 0
+ },
+ {
+  "id": "vortex",
+  "kicker": "פסטיבל",
+  "title": "VORTEX FESTIVAL",
+  "subtitle": "12–13 בנובמבר · שיטים, הערבה · אינפקטד מאשרום, ויני ויצ׳י, אומיקי",
+  "link": "#event-vortex-festival-2026-11-12",
+  "img": "",
+  "bg": "linear-gradient(120deg,#3a2a10,#0e1f3d)",
+  "show_from": "2026-10-20",
+  "show_until": "2026-11-13",
+  "sort": 1
+ }
+]

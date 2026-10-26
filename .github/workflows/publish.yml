@@ -1,0 +1,27 @@
+name: daily publish
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 06:00 Israel (winter) – writes today's articles, rebuilds, Netlify deploys on push
+  workflow_dispatch:
+    inputs:
+      days_ahead: { description: "also write topics due within N days (testing)", default: "0" }
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: write today's articles
+        env: { ANTHROPIC_API_KEY: "${{ secrets.ANTHROPIC_API_KEY }}", WRITER_DAYS_AHEAD: "${{ inputs.days_ahead }}" }
+        run: python3 writer.py 5
+      - name: build
+        env: { SITE_URL: "${{ vars.SITE_URL }}" }
+        run: python3 build.py
+      - name: commit
+        run: |
+          git config user.name "nofilter-bot"; git config user.email "bot@nofilteril.com"
+          git add -A data seo && (git commit -m "daily publish $(date -u +%F)" && git push) || echo "nothing to commit"
+      - name: ping search engines
+        run: curl -s "https://www.google.com/ping?sitemap=${{ vars.SITE_URL }}/sitemap.xml" || true

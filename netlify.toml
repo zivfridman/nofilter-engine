@@ -1,0 +1,7 @@
+[build]
+  publish = "dist"
+  command = "python3 build.py"
+[build.environment]
+  PYTHON_VERSION = "3.12"
+[functions]
+  node_bundler = "esbuild"

@@ -1,0 +1,2891 @@
+[
+ {
+  "n": 1,
+  "publish": "2026-10-27",
+  "slug": "halloween-tickets-tips",
+  "title": "כרטיסים למסיבות האלווין: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים האלווין",
+  "status": "topic"
+ },
+ {
+  "n": 2,
+  "publish": "2026-10-26",
+  "slug": "halloween-parties-guide",
+  "title": "מסיבות האלווין: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות האלווין",
+  "status": "published"
+ },
+ {
+  "n": 3,
+  "publish": "2026-10-27",
+  "slug": "halloween-tel-aviv",
+  "title": "האלווין בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "האלווין תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 4,
+  "publish": "2026-10-27",
+  "slug": "venue-moonchild-guide",
+  "title": "מונצ׳יילד: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "מונצ׳יילד",
+  "status": "topic"
+ },
+ {
+  "n": 5,
+  "publish": "2026-10-27",
+  "slug": "genre-techno-intro",
+  "title": "מהו טכנו? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה טכנו",
+  "status": "topic"
+ },
+ {
+  "n": 6,
+  "publish": "2026-10-28",
+  "slug": "city-tel-aviv-nightlife",
+  "title": "חיי לילה בתל אביב: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 7,
+  "publish": "2026-10-28",
+  "slug": "festival-decision-guide",
+  "title": "דסיז'ן: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "דסיז'ן",
+  "status": "topic"
+ },
+ {
+  "n": 8,
+  "publish": "2026-10-28",
+  "slug": "abroad-koh-phangan-parties",
+  "title": "מסיבות בקו פנגן: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות קו פנגן",
+  "status": "topic"
+ },
+ {
+  "n": 9,
+  "publish": "2026-10-28",
+  "slug": "for-bachelor-guide",
+  "title": "מסיבת רווקים: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבת רווקים",
+  "status": "topic"
+ },
+ {
+  "n": 10,
+  "publish": "2026-10-28",
+  "slug": "tip-01",
+  "title": "איך קונים כרטיס למסיבה בלי להסתבך",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך קונים כרטיס למסיבה בלי להסתבך",
+  "status": "topic"
+ },
+ {
+  "n": 11,
+  "publish": "2026-10-29",
+  "slug": "culture-01",
+  "title": "התפתחות סצנת הטראנס בישראל",
+  "category": "תרבות",
+  "keyword": "התפתחות סצנת הטראנס בישראל",
+  "status": "topic"
+ },
+ {
+  "n": 12,
+  "publish": "2026-10-29",
+  "slug": "weekend-picks",
+  "title": "הבחירות של הסופ״ש: מה שווה לצאת אליו",
+  "category": "המלצות השבוע",
+  "keyword": "הבחירות של הסופ״ש: מה שווה לצאת אליו",
+  "status": "topic"
+ },
+ {
+  "n": 13,
+  "publish": "2026-10-29",
+  "slug": "brazil-parties-guide",
+  "title": "מסיבות בברזיל: המדריך המלא לישראלים",
+  "category": "ברזיל",
+  "keyword": "מסיבות ברזיל",
+  "status": "topic"
+ },
+ {
+  "n": 14,
+  "publish": "2026-10-29",
+  "slug": "phangan-full-moon-guide",
+  "title": "פול מון פארטי בקופנגן: המדריך המלא",
+  "category": "קופנגן",
+  "keyword": "פול מון פארטי",
+  "status": "topic"
+ },
+ {
+  "n": 15,
+  "publish": "2026-10-29",
+  "slug": "venue-moonchild-tips",
+  "title": "מונצ׳יילד: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "מונצ׳יילד טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 16,
+  "publish": "2026-10-30",
+  "slug": "genre-techno-israel",
+  "title": "מסיבות טכנו בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות טכנו",
+  "status": "topic"
+ },
+ {
+  "n": 17,
+  "publish": "2026-10-30",
+  "slug": "city-tel-aviv-weekend",
+  "title": "סוף שבוע בתל אביב: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 18,
+  "publish": "2026-10-30",
+  "slug": "festival-decision-packing",
+  "title": "דסיז'ן: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "דסיז'ן ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 19,
+  "publish": "2026-10-30",
+  "slug": "abroad-goa-parties",
+  "title": "מסיבות בגואה: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות גואה",
+  "status": "topic"
+ },
+ {
+  "n": 20,
+  "publish": "2026-10-30",
+  "slug": "for-bachelorette-guide",
+  "title": "מסיבת רווקות: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבת רווקות",
+  "status": "topic"
+ },
+ {
+  "n": 21,
+  "publish": "2026-10-31",
+  "slug": "tip-02",
+  "title": "כרטיס מוקדם או בכניסה: מה משתלם",
+  "category": "טיפים ומדריכים",
+  "keyword": "כרטיס מוקדם או בכניסה: מה משתלם",
+  "status": "topic"
+ },
+ {
+  "n": 22,
+  "publish": "2026-10-31",
+  "slug": "culture-02",
+  "title": "הסצנה הקולינרית של חיי הלילה",
+  "category": "תרבות",
+  "keyword": "הסצנה הקולינרית של חיי הלילה",
+  "status": "topic"
+ },
+ {
+  "n": 23,
+  "publish": "2026-10-31",
+  "slug": "thursday-picks",
+  "title": "חמישי בלילה: האירועים הבולטים",
+  "category": "המלצות השבוע",
+  "keyword": "חמישי בלילה: האירועים הבולטים",
+  "status": "topic"
+ },
+ {
+  "n": 24,
+  "publish": "2026-10-31",
+  "slug": "brazil-carnival",
+  "title": "קרנבל בברזיל: איך מתכננים ולמה כדאי להזמין מראש",
+  "category": "ברזיל",
+  "keyword": "קרנבל ברזיל",
+  "status": "topic"
+ },
+ {
+  "n": 25,
+  "publish": "2026-10-31",
+  "slug": "phangan-half-moon",
+  "title": "האלף מון בקופנגן: מה מיוחד בו",
+  "category": "קופנגן",
+  "keyword": "האלף מון קופנגן",
+  "status": "topic"
+ },
+ {
+  "n": 26,
+  "publish": "2026-11-01",
+  "slug": "venue-namal-guide",
+  "title": "הנמל: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "הנמל",
+  "status": "topic"
+ },
+ {
+  "n": 27,
+  "publish": "2026-11-01",
+  "slug": "genre-techno-first-time",
+  "title": "פעם ראשונה במסיבת טכנו: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת טכנו פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 28,
+  "publish": "2026-11-01",
+  "slug": "city-tel-aviv-free",
+  "title": "מסיבות בחינם בתל אביב: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 29,
+  "publish": "2026-11-01",
+  "slug": "festival-vortex-guide",
+  "title": "וורטקס: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "וורטקס",
+  "status": "topic"
+ },
+ {
+  "n": 30,
+  "publish": "2026-11-01",
+  "slug": "abroad-ibiza-parties",
+  "title": "מסיבות באיביזה: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות איביזה",
+  "status": "topic"
+ },
+ {
+  "n": 31,
+  "publish": "2026-11-02",
+  "slug": "for-40plus-guide",
+  "title": "מסיבות 40 פלוס: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבות 40 פלוס",
+  "status": "topic"
+ },
+ {
+  "n": 32,
+  "publish": "2026-11-02",
+  "slug": "tip-03",
+  "title": "איך מזהים אתר כרטיסים אמין",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מזהים אתר כרטיסים אמין",
+  "status": "topic"
+ },
+ {
+  "n": 33,
+  "publish": "2026-11-02",
+  "slug": "culture-03",
+  "title": "איך נראית הפקת מסיבה מאחורי הקלעים",
+  "category": "תרבות",
+  "keyword": "איך נראית הפקת מסיבה מאחורי הקלעים",
+  "status": "topic"
+ },
+ {
+  "n": 34,
+  "publish": "2026-11-02",
+  "slug": "friday-picks",
+  "title": "שישי: מסיבות צהריים וערב",
+  "category": "המלצות השבוע",
+  "keyword": "שישי: מסיבות צהריים וערב",
+  "status": "topic"
+ },
+ {
+  "n": 35,
+  "publish": "2026-11-02",
+  "slug": "brazil-israeli-festivals",
+  "title": "פסטיבלים ישראלים בברזיל: מה מחכה שם",
+  "category": "ברזיל",
+  "keyword": "פסטיבלים ישראלים ברזיל",
+  "status": "topic"
+ },
+ {
+  "n": 36,
+  "publish": "2026-11-03",
+  "slug": "phangan-black-moon",
+  "title": "בלאק מון בקופנגן: למי זה מתאים",
+  "category": "קופנגן",
+  "keyword": "בלאק מון",
+  "status": "topic"
+ },
+ {
+  "n": 37,
+  "publish": "2026-11-03",
+  "slug": "venue-namal-tips",
+  "title": "הנמל: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "הנמל טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 38,
+  "publish": "2026-11-03",
+  "slug": "genre-trance-intro",
+  "title": "מהו טראנס? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה טראנס",
+  "status": "topic"
+ },
+ {
+  "n": 39,
+  "publish": "2026-11-03",
+  "slug": "city-haifa-nightlife",
+  "title": "חיי לילה בחיפה: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה חיפה",
+  "status": "topic"
+ },
+ {
+  "n": 40,
+  "publish": "2026-11-03",
+  "slug": "festival-vortex-packing",
+  "title": "וורטקס: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "וורטקס ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 41,
+  "publish": "2026-11-04",
+  "slug": "abroad-berlin-parties",
+  "title": "מסיבות בברלין: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות ברלין",
+  "status": "topic"
+ },
+ {
+  "n": 42,
+  "publish": "2026-11-04",
+  "slug": "for-30plus-guide",
+  "title": "מסיבות 30 פלוס: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבות 30 פלוס",
+  "status": "topic"
+ },
+ {
+  "n": 43,
+  "publish": "2026-11-04",
+  "slug": "tip-04",
+  "title": "מה לעשות כשהכרטיסים אזלו",
+  "category": "טיפים ומדריכים",
+  "keyword": "מה לעשות כשהכרטיסים אזלו",
+  "status": "topic"
+ },
+ {
+  "n": 44,
+  "publish": "2026-11-04",
+  "slug": "culture-04",
+  "title": "מה עושה מפיק אירועים",
+  "category": "תרבות",
+  "keyword": "מה עושה מפיק אירועים",
+  "status": "topic"
+ },
+ {
+  "n": 45,
+  "publish": "2026-11-04",
+  "slug": "saturday-picks",
+  "title": "מוצ״ש: איפה ממשיכים את הסופ״ש",
+  "category": "המלצות השבוע",
+  "keyword": "מוצ״ש: איפה ממשיכים את הסופ״ש",
+  "status": "topic"
+ },
+ {
+  "n": 46,
+  "publish": "2026-11-05",
+  "slug": "brazil-sao-paulo-clubs",
+  "title": "מועדוני לילה בסאו פאולו: איפה יוצאים",
+  "category": "ברזיל",
+  "keyword": "מועדונים סאו פאולו",
+  "status": "topic"
+ },
+ {
+  "n": 47,
+  "publish": "2026-11-05",
+  "slug": "phangan-parties-calendar",
+  "title": "יומן מסיבות בקופנגן: מה קורה מתי",
+  "category": "קופנגן",
+  "keyword": "מסיבות קופנגן",
+  "status": "topic"
+ },
+ {
+  "n": 48,
+  "publish": "2026-11-05",
+  "slug": "venue-atlanta-guide",
+  "title": "אטלנטה: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "אטלנטה",
+  "status": "topic"
+ },
+ {
+  "n": 49,
+  "publish": "2026-11-05",
+  "slug": "genre-trance-israel",
+  "title": "מסיבות טראנס בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות טראנס",
+  "status": "topic"
+ },
+ {
+  "n": 50,
+  "publish": "2026-11-05",
+  "slug": "city-haifa-weekend",
+  "title": "סוף שבוע בחיפה: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות חיפה",
+  "status": "topic"
+ },
+ {
+  "n": 51,
+  "publish": "2026-11-06",
+  "slug": "festival-noor-guide",
+  "title": "נור: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "נור",
+  "status": "topic"
+ },
+ {
+  "n": 52,
+  "publish": "2026-11-06",
+  "slug": "abroad-amsterdam-parties",
+  "title": "מסיבות באמסטרדם: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות אמסטרדם",
+  "status": "topic"
+ },
+ {
+  "n": 53,
+  "publish": "2026-11-06",
+  "slug": "for-youth-guide",
+  "title": "מסיבות נוער: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבות נוער",
+  "status": "topic"
+ },
+ {
+  "n": 54,
+  "publish": "2026-11-06",
+  "slug": "tip-05",
+  "title": "העברת כרטיס לחבר: איך עושים",
+  "category": "טיפים ומדריכים",
+  "keyword": "העברת כרטיס לחבר: איך עושים",
+  "status": "topic"
+ },
+ {
+  "n": 55,
+  "publish": "2026-11-06",
+  "slug": "culture-05",
+  "title": "איך מדריכים רחבה",
+  "category": "תרבות",
+  "keyword": "איך מדריכים רחבה",
+  "status": "topic"
+ },
+ {
+  "n": 56,
+  "publish": "2026-11-07",
+  "slug": "hanukkah-tickets-tips",
+  "title": "כרטיסים למסיבות חנוכה: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים חנוכה",
+  "status": "topic"
+ },
+ {
+  "n": 57,
+  "publish": "2026-11-07",
+  "slug": "tonight",
+  "title": "מה קורה הערב: מסיבות פתוחות להרשמה",
+  "category": "המלצות השבוע",
+  "keyword": "מה קורה הערב: מסיבות פתוחות להרשמה",
+  "status": "topic"
+ },
+ {
+  "n": 58,
+  "publish": "2026-11-07",
+  "slug": "brazil-rio-nights",
+  "title": "ריו בלילה: סמבה, פאנק ומסיבות חוף",
+  "category": "ברזיל",
+  "keyword": "ריו בלילה",
+  "status": "topic"
+ },
+ {
+  "n": 59,
+  "publish": "2026-11-07",
+  "slug": "phangan-israelis-scene",
+  "title": "הסצנה הישראלית בקופנגן: מה לצפות",
+  "category": "קופנגן",
+  "keyword": "ישראלים קופנגן",
+  "status": "topic"
+ },
+ {
+  "n": 60,
+  "publish": "2026-11-07",
+  "slug": "venue-atlanta-tips",
+  "title": "אטלנטה: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "אטלנטה טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 61,
+  "publish": "2026-11-08",
+  "slug": "genre-trance-first-time",
+  "title": "פעם ראשונה במסיבת טראנס: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת טראנס פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 62,
+  "publish": "2026-11-08",
+  "slug": "city-haifa-free",
+  "title": "מסיבות בחינם בחיפה: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם חיפה",
+  "status": "topic"
+ },
+ {
+  "n": 63,
+  "publish": "2026-11-08",
+  "slug": "festival-noor-packing",
+  "title": "נור: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "נור ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 64,
+  "publish": "2026-11-08",
+  "slug": "abroad-tulum-parties",
+  "title": "מסיבות בטולום: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות טולום",
+  "status": "topic"
+ },
+ {
+  "n": 65,
+  "publish": "2026-11-08",
+  "slug": "for-solo-guide",
+  "title": "יוצאים לבד: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "יוצאים לבד",
+  "status": "topic"
+ },
+ {
+  "n": 66,
+  "publish": "2026-11-09",
+  "slug": "tip-06",
+  "title": "החזר כספי על אירוע שבוטל",
+  "category": "טיפים ומדריכים",
+  "keyword": "החזר כספי על אירוע שבוטל",
+  "status": "topic"
+ },
+ {
+  "n": 67,
+  "publish": "2026-11-09",
+  "slug": "culture-06",
+  "title": "למה מסיבות בטבע הפכו פופולריות",
+  "category": "תרבות",
+  "keyword": "למה מסיבות בטבע הפכו פופולריות",
+  "status": "topic"
+ },
+ {
+  "n": 68,
+  "publish": "2026-11-09",
+  "slug": "this-month",
+  "title": "החודש הקרוב בחיי הלילה",
+  "category": "המלצות השבוע",
+  "keyword": "החודש הקרוב בחיי הלילה",
+  "status": "topic"
+ },
+ {
+  "n": 69,
+  "publish": "2026-11-09",
+  "slug": "brazil-safety-nightlife",
+  "title": "בטיחות בלילה בברזיל: טיפים לטיילים",
+  "category": "ברזיל",
+  "keyword": "בטיחות ברזיל לילה",
+  "status": "topic"
+ },
+ {
+  "n": 70,
+  "publish": "2026-11-09",
+  "slug": "phangan-safety",
+  "title": "בטיחות במסיבות בקופנגן: ממה להיזהר",
+  "category": "קופנגן",
+  "keyword": "בטיחות קופנגן",
+  "status": "topic"
+ },
+ {
+  "n": 71,
+  "publish": "2026-11-10",
+  "slug": "venue-gagarin-guide",
+  "title": "גגרין: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "גגרין",
+  "status": "topic"
+ },
+ {
+  "n": 72,
+  "publish": "2026-11-10",
+  "slug": "genre-psytrance-intro",
+  "title": "מהו פסיי טראנס? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה פסיי טראנס",
+  "status": "topic"
+ },
+ {
+  "n": 73,
+  "publish": "2026-11-10",
+  "slug": "city-jerusalem-nightlife",
+  "title": "חיי לילה בירושלים: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה ירושלים",
+  "status": "topic"
+ },
+ {
+  "n": 74,
+  "publish": "2026-11-10",
+  "slug": "festival-shamanic-guide",
+  "title": "פסטיבל שמאני: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל שמאני",
+  "status": "topic"
+ },
+ {
+  "n": 75,
+  "publish": "2026-11-10",
+  "slug": "abroad-rio-parties",
+  "title": "מסיבות בריו: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות ריו",
+  "status": "topic"
+ },
+ {
+  "n": 76,
+  "publish": "2026-11-11",
+  "slug": "for-couples-guide",
+  "title": "מסיבות לזוגות: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבות לזוגות",
+  "status": "topic"
+ },
+ {
+  "n": 77,
+  "publish": "2026-11-11",
+  "slug": "tip-07",
+  "title": "מה זה רשימת אורחים ואיך נכנסים אליה",
+  "category": "טיפים ומדריכים",
+  "keyword": "מה זה רשימת אורחים ואיך נכנסים אליה",
+  "status": "topic"
+ },
+ {
+  "n": 78,
+  "publish": "2026-11-11",
+  "slug": "culture-07",
+  "title": "המוזיקה האלקטרונית: מסע בזמן",
+  "category": "תרבות",
+  "keyword": "המוזיקה האלקטרונית: מסע בזמן",
+  "status": "topic"
+ },
+ {
+  "n": 79,
+  "publish": "2026-11-11",
+  "slug": "new-this-week",
+  "title": "חדש השבוע: אירועים שנוספו",
+  "category": "המלצות השבוע",
+  "keyword": "חדש השבוע: אירועים שנוספו",
+  "status": "topic"
+ },
+ {
+  "n": 80,
+  "publish": "2026-11-11",
+  "slug": "brazil-tickets-guide",
+  "title": "איך קונים כרטיסים למסיבות בברזיל",
+  "category": "ברזיל",
+  "keyword": "כרטיסים מסיבות ברזיל",
+  "status": "topic"
+ },
+ {
+  "n": 81,
+  "publish": "2026-11-12",
+  "slug": "phangan-where-to-stay",
+  "title": "איפה ללון בקופנגן סביב המסיבות",
+  "category": "קופנגן",
+  "keyword": "לינה קופנגן",
+  "status": "topic"
+ },
+ {
+  "n": 82,
+  "publish": "2026-11-12",
+  "slug": "venue-gagarin-tips",
+  "title": "גגרין: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "גגרין טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 83,
+  "publish": "2026-11-12",
+  "slug": "genre-psytrance-israel",
+  "title": "מסיבות פסיי טראנס בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות פסיי טראנס",
+  "status": "topic"
+ },
+ {
+  "n": 84,
+  "publish": "2026-11-12",
+  "slug": "city-jerusalem-weekend",
+  "title": "סוף שבוע בירושלים: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות ירושלים",
+  "status": "topic"
+ },
+ {
+  "n": 85,
+  "publish": "2026-11-12",
+  "slug": "festival-shamanic-packing",
+  "title": "פסטיבל שמאני: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל שמאני ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 86,
+  "publish": "2026-11-13",
+  "slug": "abroad-bangkok-parties",
+  "title": "מסיבות בבנגקוק: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות בנגקוק",
+  "status": "topic"
+ },
+ {
+  "n": 87,
+  "publish": "2026-11-13",
+  "slug": "for-women-guide",
+  "title": "ערב בנות: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "ערב בנות",
+  "status": "topic"
+ },
+ {
+  "n": 88,
+  "publish": "2026-11-13",
+  "slug": "tip-08",
+  "title": "קוד קופון לכרטיס: איפה מוצאים ואיך משתמשים",
+  "category": "טיפים ומדריכים",
+  "keyword": "קוד קופון לכרטיס: איפה מוצאים ואיך משתמשים",
+  "status": "topic"
+ },
+ {
+  "n": 89,
+  "publish": "2026-11-13",
+  "slug": "culture-08",
+  "title": "הכירו את הדיג׳יים החדשים בסצנה",
+  "category": "תרבות",
+  "keyword": "הכירו את הדיג׳יים החדשים בסצנה",
+  "status": "topic"
+ },
+ {
+  "n": 90,
+  "publish": "2026-11-13",
+  "slug": "best-free",
+  "title": "הרשמות בחינם שווה לנצל",
+  "category": "המלצות השבוע",
+  "keyword": "הרשמות בחינם שווה לנצל",
+  "status": "topic"
+ },
+ {
+  "n": 91,
+  "publish": "2026-11-14",
+  "slug": "hanukkah-parties-guide",
+  "title": "מסיבות חנוכה: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות חנוכה",
+  "status": "topic"
+ },
+ {
+  "n": 92,
+  "publish": "2026-11-14",
+  "slug": "phangan-packing",
+  "title": "מה לוקחים לקופנגן: ציוד לטיול מסיבות",
+  "category": "קופנגן",
+  "keyword": "ציוד קופנגן",
+  "status": "topic"
+ },
+ {
+  "n": 93,
+  "publish": "2026-11-14",
+  "slug": "venue-shalvata-guide",
+  "title": "שלוותה: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "שלוותה",
+  "status": "topic"
+ },
+ {
+  "n": 94,
+  "publish": "2026-11-14",
+  "slug": "genre-psytrance-first-time",
+  "title": "פעם ראשונה במסיבת פסיי טראנס: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת פסיי טראנס פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 95,
+  "publish": "2026-11-14",
+  "slug": "city-jerusalem-free",
+  "title": "מסיבות בחינם בירושלים: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם ירושלים",
+  "status": "topic"
+ },
+ {
+  "n": 96,
+  "publish": "2026-11-15",
+  "slug": "festival-desert-rave-guide",
+  "title": "רייב מדבר: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "רייב מדבר",
+  "status": "topic"
+ },
+ {
+  "n": 97,
+  "publish": "2026-11-15",
+  "slug": "abroad-lisbon-parties",
+  "title": "מסיבות בליסבון: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות ליסבון",
+  "status": "topic"
+ },
+ {
+  "n": 98,
+  "publish": "2026-11-15",
+  "slug": "for-birthday-guide",
+  "title": "יום הולדת במסיבה: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "יום הולדת במסיבה",
+  "status": "topic"
+ },
+ {
+  "n": 99,
+  "publish": "2026-11-15",
+  "slug": "tip-09",
+  "title": "גיל כניסה למסיבות: למה זה משתנה בין אירועים",
+  "category": "טיפים ומדריכים",
+  "keyword": "גיל כניסה למסיבות: למה זה משתנה בין אירועים",
+  "status": "topic"
+ },
+ {
+  "n": 100,
+  "publish": "2026-11-15",
+  "slug": "culture-09",
+  "title": "מה זה אלבום סט ואיך מקשיבים לו",
+  "category": "תרבות",
+  "keyword": "מה זה אלבום סט ואיך מקשיבים לו",
+  "status": "topic"
+ },
+ {
+  "n": 101,
+  "publish": "2026-11-16",
+  "slug": "best-open-bar",
+  "title": "הערבים עם בר חופשי",
+  "category": "המלצות השבוע",
+  "keyword": "הערבים עם בר חופשי",
+  "status": "topic"
+ },
+ {
+  "n": 102,
+  "publish": "2026-11-16",
+  "slug": "venue-shalvata-tips",
+  "title": "שלוותה: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "שלוותה טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 103,
+  "publish": "2026-11-16",
+  "slug": "genre-progressive-intro",
+  "title": "מהו פרוגרסיב? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה פרוגרסיב",
+  "status": "topic"
+ },
+ {
+  "n": 104,
+  "publish": "2026-11-16",
+  "slug": "city-herzliya-nightlife",
+  "title": "חיי לילה בהרצליה: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה הרצליה",
+  "status": "topic"
+ },
+ {
+  "n": 105,
+  "publish": "2026-11-16",
+  "slug": "festival-desert-rave-packing",
+  "title": "רייב מדבר: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "רייב מדבר ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 106,
+  "publish": "2026-11-17",
+  "slug": "abroad-barcelona-parties",
+  "title": "מסיבות בברצלונה: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות ברצלונה",
+  "status": "topic"
+ },
+ {
+  "n": 107,
+  "publish": "2026-11-17",
+  "slug": "for-office-guide",
+  "title": "מסיבת חברה: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבת חברה",
+  "status": "topic"
+ },
+ {
+  "n": 108,
+  "publish": "2026-11-17",
+  "slug": "tip-10",
+  "title": "מה לקחת למסיבה ומה להשאיר בבית",
+  "category": "טיפים ומדריכים",
+  "keyword": "מה לקחת למסיבה ומה להשאיר בבית",
+  "status": "topic"
+ },
+ {
+  "n": 109,
+  "publish": "2026-11-17",
+  "slug": "culture-10",
+  "title": "איך נבנה ליינאפ מנצח",
+  "category": "תרבות",
+  "keyword": "איך נבנה ליינאפ מנצח",
+  "status": "topic"
+ },
+ {
+  "n": 110,
+  "publish": "2026-11-17",
+  "slug": "best-nature",
+  "title": "מסיבות הטבע הקרובות",
+  "category": "המלצות השבוע",
+  "keyword": "מסיבות הטבע הקרובות",
+  "status": "topic"
+ },
+ {
+  "n": 111,
+  "publish": "2026-11-18",
+  "slug": "venue-florida-guide",
+  "title": "פלורידה: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "פלורידה",
+  "status": "topic"
+ },
+ {
+  "n": 112,
+  "publish": "2026-11-18",
+  "slug": "genre-progressive-israel",
+  "title": "מסיבות פרוגרסיב בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות פרוגרסיב",
+  "status": "topic"
+ },
+ {
+  "n": 113,
+  "publish": "2026-11-18",
+  "slug": "city-herzliya-weekend",
+  "title": "סוף שבוע בהרצליה: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות הרצליה",
+  "status": "topic"
+ },
+ {
+  "n": 114,
+  "publish": "2026-11-18",
+  "slug": "festival-beach-fest-guide",
+  "title": "פסטיבל חוף: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל חוף",
+  "status": "topic"
+ },
+ {
+  "n": 115,
+  "publish": "2026-11-18",
+  "slug": "abroad-athens-parties",
+  "title": "מסיבות באתונה: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות אתונה",
+  "status": "topic"
+ },
+ {
+  "n": 116,
+  "publish": "2026-11-19",
+  "slug": "for-students-guide",
+  "title": "מסיבות סטודנטים: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "מסיבות סטודנטים",
+  "status": "topic"
+ },
+ {
+  "n": 117,
+  "publish": "2026-11-19",
+  "slug": "tip-11",
+  "title": "איך מגיעים הביתה בבטחה אחרי מסיבה",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מגיעים הביתה בבטחה אחרי מסיבה",
+  "status": "topic"
+ },
+ {
+  "n": 118,
+  "publish": "2026-11-19",
+  "slug": "culture-11",
+  "title": "שיתופי פעולה בין מועדונים לפסטיבלים",
+  "category": "תרבות",
+  "keyword": "שיתופי פעולה בין מועדונים לפסטיבלים",
+  "status": "topic"
+ },
+ {
+  "n": 119,
+  "publish": "2026-11-19",
+  "slug": "best-tlv",
+  "title": "הערבים הבולטים בתל אביב",
+  "category": "המלצות השבוע",
+  "keyword": "הערבים הבולטים בתל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 120,
+  "publish": "2026-11-19",
+  "slug": "venue-florida-tips",
+  "title": "פלורידה: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "פלורידה טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 121,
+  "publish": "2026-11-20",
+  "slug": "genre-progressive-first-time",
+  "title": "פעם ראשונה במסיבת פרוגרסיב: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת פרוגרסיב פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 122,
+  "publish": "2026-11-20",
+  "slug": "city-herzliya-free",
+  "title": "מסיבות בחינם בהרצליה: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם הרצליה",
+  "status": "topic"
+ },
+ {
+  "n": 123,
+  "publish": "2026-11-20",
+  "slug": "festival-beach-fest-packing",
+  "title": "פסטיבל חוף: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל חוף ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 124,
+  "publish": "2026-11-20",
+  "slug": "abroad-mykonos-parties",
+  "title": "מסיבות במיקונוס: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות מיקונוס",
+  "status": "topic"
+ },
+ {
+  "n": 125,
+  "publish": "2026-11-20",
+  "slug": "for-wine-guide",
+  "title": "ערבי יין: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "ערבי יין",
+  "status": "topic"
+ },
+ {
+  "n": 126,
+  "publish": "2026-11-21",
+  "slug": "tip-12",
+  "title": "תחבורה למסיבות טבע בלי רכב",
+  "category": "טיפים ומדריכים",
+  "keyword": "תחבורה למסיבות טבע בלי רכב",
+  "status": "topic"
+ },
+ {
+  "n": 127,
+  "publish": "2026-11-21",
+  "slug": "culture-12",
+  "title": "מגמות בחיי הלילה השנה",
+  "category": "תרבות",
+  "keyword": "מגמות בחיי הלילה השנה",
+  "status": "topic"
+ },
+ {
+  "n": 128,
+  "publish": "2026-11-21",
+  "slug": "best-brazil",
+  "title": "מסיבות ברזילאיות: מה מיוחד בהן",
+  "category": "המלצות השבוע",
+  "keyword": "מסיבות ברזילאיות: מה מיוחד בהן",
+  "status": "topic"
+ },
+ {
+  "n": 129,
+  "publish": "2026-11-21",
+  "slug": "venue-kuli-alma-guide",
+  "title": "קולי אלמא: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "קולי אלמא",
+  "status": "topic"
+ },
+ {
+  "n": 130,
+  "publish": "2026-11-21",
+  "slug": "genre-house-intro",
+  "title": "מהו האוס? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה האוס",
+  "status": "topic"
+ },
+ {
+  "n": 131,
+  "publish": "2026-11-22",
+  "slug": "city-raanana-nightlife",
+  "title": "חיי לילה ברעננה: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה רעננה",
+  "status": "topic"
+ },
+ {
+  "n": 132,
+  "publish": "2026-11-22",
+  "slug": "festival-wine-fest-guide",
+  "title": "פסטיבל יין: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל יין",
+  "status": "topic"
+ },
+ {
+  "n": 133,
+  "publish": "2026-11-22",
+  "slug": "abroad-budapest-parties",
+  "title": "מסיבות בבודפשט: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות בודפשט",
+  "status": "topic"
+ },
+ {
+  "n": 134,
+  "publish": "2026-11-22",
+  "slug": "for-openbar-guide",
+  "title": "אלכוהול חופשי: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "אלכוהול חופשי",
+  "status": "topic"
+ },
+ {
+  "n": 135,
+  "publish": "2026-11-22",
+  "slug": "tip-13",
+  "title": "איך שומרים על שמיעה במסיבה",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך שומרים על שמיעה במסיבה",
+  "status": "topic"
+ },
+ {
+  "n": 136,
+  "publish": "2026-11-23",
+  "slug": "culture-13",
+  "title": "איך משתנה קהל המסיבות",
+  "category": "תרבות",
+  "keyword": "איך משתנה קהל המסיבות",
+  "status": "topic"
+ },
+ {
+  "n": 137,
+  "publish": "2026-11-23",
+  "slug": "venue-kuli-alma-tips",
+  "title": "קולי אלמא: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "קולי אלמא טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 138,
+  "publish": "2026-11-23",
+  "slug": "genre-house-israel",
+  "title": "מסיבות האוס בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות האוס",
+  "status": "topic"
+ },
+ {
+  "n": 139,
+  "publish": "2026-11-23",
+  "slug": "city-raanana-weekend",
+  "title": "סוף שבוע ברעננה: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות רעננה",
+  "status": "topic"
+ },
+ {
+  "n": 140,
+  "publish": "2026-11-23",
+  "slug": "festival-wine-fest-packing",
+  "title": "פסטיבל יין: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל יין ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 141,
+  "publish": "2026-11-24",
+  "slug": "abroad-prague-parties",
+  "title": "מסיבות בפראג: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות פראג",
+  "status": "topic"
+ },
+ {
+  "n": 142,
+  "publish": "2026-11-24",
+  "slug": "for-free-entry-guide",
+  "title": "הרשמה בחינם: איך בוחרים ערב מוצלח",
+  "category": "קהלים",
+  "keyword": "הרשמה בחינם",
+  "status": "topic"
+ },
+ {
+  "n": 143,
+  "publish": "2026-11-24",
+  "slug": "tip-14",
+  "title": "מים, אוכל ושינה: לפני ואחרי ריקודים",
+  "category": "טיפים ומדריכים",
+  "keyword": "מים, אוכל ושינה: לפני ואחרי ריקודים",
+  "status": "topic"
+ },
+ {
+  "n": 144,
+  "publish": "2026-11-24",
+  "slug": "culture-14",
+  "title": "הפקה בת קיימא: ירוק במסיבות",
+  "category": "תרבות",
+  "keyword": "הפקה בת קיימא: ירוק במסיבות",
+  "status": "topic"
+ },
+ {
+  "n": 145,
+  "publish": "2026-11-24",
+  "slug": "venue-barby-guide",
+  "title": "בארבי: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "בארבי",
+  "status": "topic"
+ },
+ {
+  "n": 146,
+  "publish": "2026-11-25",
+  "slug": "hanukkah-tel-aviv",
+  "title": "חנוכה בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "חנוכה תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 147,
+  "publish": "2026-11-25",
+  "slug": "genre-house-first-time",
+  "title": "פעם ראשונה במסיבת האוס: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת האוס פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 148,
+  "publish": "2026-11-25",
+  "slug": "city-raanana-free",
+  "title": "מסיבות בחינם ברעננה: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם רעננה",
+  "status": "topic"
+ },
+ {
+  "n": 149,
+  "publish": "2026-11-25",
+  "slug": "festival-food-music-guide",
+  "title": "פסטיבל אוכל ומוזיקה: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל אוכל ומוזיקה",
+  "status": "topic"
+ },
+ {
+  "n": 150,
+  "publish": "2026-11-25",
+  "slug": "abroad-belgrade-parties",
+  "title": "מסיבות בבלגרד: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות בלגרד",
+  "status": "topic"
+ },
+ {
+  "n": 151,
+  "publish": "2026-11-26",
+  "slug": "tip-15",
+  "title": "טיפים לצילום במסיבה בלי להפריע",
+  "category": "טיפים ומדריכים",
+  "keyword": "טיפים לצילום במסיבה בלי להפריע",
+  "status": "topic"
+ },
+ {
+  "n": 152,
+  "publish": "2026-11-26",
+  "slug": "culture-15",
+  "title": "טכנולוגיה באירועים: צמידים וכרטיסים דיגיטליים",
+  "category": "תרבות",
+  "keyword": "טכנולוגיה באירועים: צמידים וכרטיסים דיגיטליים",
+  "status": "topic"
+ },
+ {
+  "n": 153,
+  "publish": "2026-11-26",
+  "slug": "venue-barby-tips",
+  "title": "בארבי: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "בארבי טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 154,
+  "publish": "2026-11-26",
+  "slug": "genre-melodic-intro",
+  "title": "מהו מלודיק? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה מלודיק",
+  "status": "topic"
+ },
+ {
+  "n": 155,
+  "publish": "2026-11-26",
+  "slug": "city-beer-sheva-nightlife",
+  "title": "חיי לילה בבאר שבע: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה באר שבע",
+  "status": "topic"
+ },
+ {
+  "n": 156,
+  "publish": "2026-11-27",
+  "slug": "festival-food-music-packing",
+  "title": "פסטיבל אוכל ומוזיקה: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל אוכל ומוזיקה ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 157,
+  "publish": "2026-11-27",
+  "slug": "abroad-tbilisi-parties",
+  "title": "מסיבות בטביליסי: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות טביליסי",
+  "status": "topic"
+ },
+ {
+  "n": 158,
+  "publish": "2026-11-27",
+  "slug": "tip-16",
+  "title": "נימוסי רחבה: מה מקובל ומה לא",
+  "category": "טיפים ומדריכים",
+  "keyword": "נימוסי רחבה: מה מקובל ומה לא",
+  "status": "topic"
+ },
+ {
+  "n": 159,
+  "publish": "2026-11-27",
+  "slug": "culture-16",
+  "title": "מוזיקה חיה מול דיג׳יי",
+  "category": "תרבות",
+  "keyword": "מוזיקה חיה מול דיג׳יי",
+  "status": "topic"
+ },
+ {
+  "n": 160,
+  "publish": "2026-11-27",
+  "slug": "venue-block-guide",
+  "title": "הבלוק: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "הבלוק",
+  "status": "topic"
+ },
+ {
+  "n": 161,
+  "publish": "2026-11-28",
+  "slug": "genre-melodic-israel",
+  "title": "מסיבות מלודיק בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות מלודיק",
+  "status": "topic"
+ },
+ {
+  "n": 162,
+  "publish": "2026-11-28",
+  "slug": "city-beer-sheva-weekend",
+  "title": "סוף שבוע בבאר שבע: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות באר שבע",
+  "status": "topic"
+ },
+ {
+  "n": 163,
+  "publish": "2026-11-28",
+  "slug": "festival-camping-fest-guide",
+  "title": "פסטיבל עם קמפינג: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל עם קמפינג",
+  "status": "topic"
+ },
+ {
+  "n": 164,
+  "publish": "2026-11-28",
+  "slug": "abroad-larnaca-parties",
+  "title": "מסיבות בלרנקה: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות לרנקה",
+  "status": "topic"
+ },
+ {
+  "n": 165,
+  "publish": "2026-11-28",
+  "slug": "tip-17",
+  "title": "איך מוצאים חברים למסיבה",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מוצאים חברים למסיבה",
+  "status": "topic"
+ },
+ {
+  "n": 166,
+  "publish": "2026-11-29",
+  "slug": "culture-17",
+  "title": "אמנות ויזואלית במסיבות",
+  "category": "תרבות",
+  "keyword": "אמנות ויזואלית במסיבות",
+  "status": "topic"
+ },
+ {
+  "n": 167,
+  "publish": "2026-11-29",
+  "slug": "venue-block-tips",
+  "title": "הבלוק: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "הבלוק טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 168,
+  "publish": "2026-11-29",
+  "slug": "genre-melodic-first-time",
+  "title": "פעם ראשונה במסיבת מלודיק: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת מלודיק פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 169,
+  "publish": "2026-11-29",
+  "slug": "city-beer-sheva-free",
+  "title": "מסיבות בחינם בבאר שבע: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם באר שבע",
+  "status": "topic"
+ },
+ {
+  "n": 170,
+  "publish": "2026-11-29",
+  "slug": "festival-camping-fest-packing",
+  "title": "פסטיבל עם קמפינג: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל עם קמפינג ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 171,
+  "publish": "2026-11-30",
+  "slug": "abroad-ayia-napa-parties",
+  "title": "מסיבות באיה נאפה: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות איה נאפה",
+  "status": "topic"
+ },
+ {
+  "n": 172,
+  "publish": "2026-11-30",
+  "slug": "tip-18",
+  "title": "איך מחליטים בין שני אירועים באותו ערב",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מחליטים בין שני אירועים באותו ערב",
+  "status": "topic"
+ },
+ {
+  "n": 173,
+  "publish": "2026-11-30",
+  "slug": "culture-18",
+  "title": "תאורה וסאונד: מה עושה ערב טוב",
+  "category": "תרבות",
+  "keyword": "תאורה וסאונד: מה עושה ערב טוב",
+  "status": "topic"
+ },
+ {
+  "n": 174,
+  "publish": "2026-11-30",
+  "slug": "venue-radio-epgb-guide",
+  "title": "רדיו EPGB: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "רדיו EPGB",
+  "status": "topic"
+ },
+ {
+  "n": 175,
+  "publish": "2026-11-30",
+  "slug": "genre-afro-house-intro",
+  "title": "מהו אפרו האוס? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה אפרו האוס",
+  "status": "topic"
+ },
+ {
+  "n": 176,
+  "publish": "2026-12-01",
+  "slug": "city-eilat-nightlife",
+  "title": "חיי לילה באילת: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה אילת",
+  "status": "topic"
+ },
+ {
+  "n": 177,
+  "publish": "2026-12-01",
+  "slug": "festival-open-air-guide",
+  "title": "מסיבות אופן אייר: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות אופן אייר",
+  "status": "topic"
+ },
+ {
+  "n": 178,
+  "publish": "2026-12-01",
+  "slug": "abroad-sao-paulo-parties",
+  "title": "מסיבות בסאו פאולו: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות סאו פאולו",
+  "status": "topic"
+ },
+ {
+  "n": 179,
+  "publish": "2026-12-01",
+  "slug": "tip-19",
+  "title": "מתי כדאי להגיע: ראשון או אחרון",
+  "category": "טיפים ומדריכים",
+  "keyword": "מתי כדאי להגיע: ראשון או אחרון",
+  "status": "topic"
+ },
+ {
+  "n": 180,
+  "publish": "2026-12-01",
+  "slug": "culture-19",
+  "title": "היסטוריה קצרה של מועדוני לילה",
+  "category": "תרבות",
+  "keyword": "היסטוריה קצרה של מועדוני לילה",
+  "status": "topic"
+ },
+ {
+  "n": 181,
+  "publish": "2026-12-02",
+  "slug": "venue-radio-epgb-tips",
+  "title": "רדיו EPGB: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "רדיו EPGB טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 182,
+  "publish": "2026-12-02",
+  "slug": "genre-afro-house-israel",
+  "title": "מסיבות אפרו האוס בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות אפרו האוס",
+  "status": "topic"
+ },
+ {
+  "n": 183,
+  "publish": "2026-12-02",
+  "slug": "city-eilat-weekend",
+  "title": "סוף שבוע באילת: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות אילת",
+  "status": "topic"
+ },
+ {
+  "n": 184,
+  "publish": "2026-12-02",
+  "slug": "festival-open-air-packing",
+  "title": "מסיבות אופן אייר: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות אופן אייר ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 185,
+  "publish": "2026-12-02",
+  "slug": "abroad-dubai-parties",
+  "title": "מסיבות בדובאי: מה חשוב לישראלים לדעת",
+  "category": "חו״ל",
+  "keyword": "מסיבות דובאי",
+  "status": "topic"
+ },
+ {
+  "n": 186,
+  "publish": "2026-12-03",
+  "slug": "new-year-tickets-tips",
+  "title": "כרטיסים למסיבות סילבסטר: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים סילבסטר",
+  "status": "topic"
+ },
+ {
+  "n": 187,
+  "publish": "2026-12-03",
+  "slug": "tip-20",
+  "title": "קוד לבוש במסיבות: מדריך מהיר",
+  "category": "טיפים ומדריכים",
+  "keyword": "קוד לבוש במסיבות: מדריך מהיר",
+  "status": "topic"
+ },
+ {
+  "n": 188,
+  "publish": "2026-12-03",
+  "slug": "culture-20",
+  "title": "מסיבות בישראל לעומת אירופה",
+  "category": "תרבות",
+  "keyword": "מסיבות בישראל לעומת אירופה",
+  "status": "topic"
+ },
+ {
+  "n": 189,
+  "publish": "2026-12-03",
+  "slug": "venue-teder-guide",
+  "title": "תדר: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "תדר",
+  "status": "topic"
+ },
+ {
+  "n": 190,
+  "publish": "2026-12-03",
+  "slug": "genre-afro-house-first-time",
+  "title": "פעם ראשונה במסיבת אפרו האוס: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת אפרו האוס פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 191,
+  "publish": "2026-12-04",
+  "slug": "city-eilat-free",
+  "title": "מסיבות בחינם באילת: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם אילת",
+  "status": "topic"
+ },
+ {
+  "n": 192,
+  "publish": "2026-12-04",
+  "slug": "festival-sunrise-party-guide",
+  "title": "מסיבות זריחה: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות זריחה",
+  "status": "topic"
+ },
+ {
+  "n": 193,
+  "publish": "2026-12-04",
+  "slug": "abroad-koh-phangan-nightlife",
+  "title": "חיי לילה בקו פנגן: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה קו פנגן",
+  "status": "topic"
+ },
+ {
+  "n": 194,
+  "publish": "2026-12-04",
+  "slug": "tip-21",
+  "title": "איך קוראים ליינאפ ופוסטר",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך קוראים ליינאפ ופוסטר",
+  "status": "topic"
+ },
+ {
+  "n": 195,
+  "publish": "2026-12-04",
+  "slug": "venue-teder-tips",
+  "title": "תדר: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "תדר טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 196,
+  "publish": "2026-12-05",
+  "slug": "genre-drum-and-bass-intro",
+  "title": "מהו דראם אנד בייס? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה דראם אנד בייס",
+  "status": "topic"
+ },
+ {
+  "n": 197,
+  "publish": "2026-12-05",
+  "slug": "city-netanya-nightlife",
+  "title": "חיי לילה בנתניה: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה נתניה",
+  "status": "topic"
+ },
+ {
+  "n": 198,
+  "publish": "2026-12-05",
+  "slug": "festival-sunrise-party-packing",
+  "title": "מסיבות זריחה: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות זריחה ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 199,
+  "publish": "2026-12-05",
+  "slug": "abroad-goa-nightlife",
+  "title": "חיי לילה בגואה: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה גואה",
+  "status": "topic"
+ },
+ {
+  "n": 200,
+  "publish": "2026-12-05",
+  "slug": "tip-22",
+  "title": "מהו ב2ב ולמה כולם מדברים עליו",
+  "category": "טיפים ומדריכים",
+  "keyword": "מהו ב2ב ולמה כולם מדברים עליו",
+  "status": "topic"
+ },
+ {
+  "n": 201,
+  "publish": "2026-12-06",
+  "slug": "venue-lima-lima-guide",
+  "title": "לימה לימה: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "לימה לימה",
+  "status": "topic"
+ },
+ {
+  "n": 202,
+  "publish": "2026-12-06",
+  "slug": "genre-drum-and-bass-israel",
+  "title": "מסיבות דראם אנד בייס בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות דראם אנד בייס",
+  "status": "topic"
+ },
+ {
+  "n": 203,
+  "publish": "2026-12-06",
+  "slug": "city-netanya-weekend",
+  "title": "סוף שבוע בנתניה: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות נתניה",
+  "status": "topic"
+ },
+ {
+  "n": 204,
+  "publish": "2026-12-06",
+  "slug": "festival-full-moon-guide",
+  "title": "מסיבות ירח מלא: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות ירח מלא",
+  "status": "topic"
+ },
+ {
+  "n": 205,
+  "publish": "2026-12-06",
+  "slug": "abroad-ibiza-nightlife",
+  "title": "חיי לילה באיביזה: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה איביזה",
+  "status": "topic"
+ },
+ {
+  "n": 206,
+  "publish": "2026-12-07",
+  "slug": "tip-23",
+  "title": "מה זה סט פתיחה וסט סגירה",
+  "category": "טיפים ומדריכים",
+  "keyword": "מה זה סט פתיחה וסט סגירה",
+  "status": "topic"
+ },
+ {
+  "n": 207,
+  "publish": "2026-12-07",
+  "slug": "venue-lima-lima-tips",
+  "title": "לימה לימה: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "לימה לימה טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 208,
+  "publish": "2026-12-07",
+  "slug": "genre-drum-and-bass-first-time",
+  "title": "פעם ראשונה במסיבת דראם אנד בייס: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת דראם אנד בייס פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 209,
+  "publish": "2026-12-07",
+  "slug": "city-netanya-free",
+  "title": "מסיבות בחינם בנתניה: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם נתניה",
+  "status": "topic"
+ },
+ {
+  "n": 210,
+  "publish": "2026-12-07",
+  "slug": "festival-full-moon-packing",
+  "title": "מסיבות ירח מלא: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות ירח מלא ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 211,
+  "publish": "2026-12-08",
+  "slug": "abroad-berlin-nightlife",
+  "title": "חיי לילה בברלין: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה ברלין",
+  "status": "topic"
+ },
+ {
+  "n": 212,
+  "publish": "2026-12-08",
+  "slug": "tip-24",
+  "title": "מה זה אפטר ומתי הוא מתחיל",
+  "category": "טיפים ומדריכים",
+  "keyword": "מה זה אפטר ומתי הוא מתחיל",
+  "status": "topic"
+ },
+ {
+  "n": 213,
+  "publish": "2026-12-08",
+  "slug": "venue-haoman-17-guide",
+  "title": "האומן 17: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "האומן 17",
+  "status": "topic"
+ },
+ {
+  "n": 214,
+  "publish": "2026-12-08",
+  "slug": "genre-dubstep-intro",
+  "title": "מהו דאבסטפ? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה דאבסטפ",
+  "status": "topic"
+ },
+ {
+  "n": 215,
+  "publish": "2026-12-08",
+  "slug": "city-ashdod-nightlife",
+  "title": "חיי לילה באשדוד: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה אשדוד",
+  "status": "topic"
+ },
+ {
+  "n": 216,
+  "publish": "2026-12-09",
+  "slug": "festival-forest-party-guide",
+  "title": "מסיבות יער: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות יער",
+  "status": "topic"
+ },
+ {
+  "n": 217,
+  "publish": "2026-12-09",
+  "slug": "abroad-amsterdam-nightlife",
+  "title": "חיי לילה באמסטרדם: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה אמסטרדם",
+  "status": "topic"
+ },
+ {
+  "n": 218,
+  "publish": "2026-12-09",
+  "slug": "tip-25",
+  "title": "איך מתכננים סופ״ש של שלוש מסיבות",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מתכננים סופ״ש של שלוש מסיבות",
+  "status": "topic"
+ },
+ {
+  "n": 219,
+  "publish": "2026-12-09",
+  "slug": "venue-haoman-17-tips",
+  "title": "האומן 17: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "האומן 17 טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 220,
+  "publish": "2026-12-09",
+  "slug": "genre-dubstep-israel",
+  "title": "מסיבות דאבסטפ בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות דאבסטפ",
+  "status": "topic"
+ },
+ {
+  "n": 221,
+  "publish": "2026-12-10",
+  "slug": "new-year-parties-guide",
+  "title": "מסיבות סילבסטר: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות סילבסטר",
+  "status": "topic"
+ },
+ {
+  "n": 222,
+  "publish": "2026-12-10",
+  "slug": "city-ashdod-weekend",
+  "title": "סוף שבוע באשדוד: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות אשדוד",
+  "status": "topic"
+ },
+ {
+  "n": 223,
+  "publish": "2026-12-10",
+  "slug": "festival-forest-party-packing",
+  "title": "מסיבות יער: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות יער ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 224,
+  "publish": "2026-12-10",
+  "slug": "abroad-tulum-nightlife",
+  "title": "חיי לילה בטולום: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה טולום",
+  "status": "topic"
+ },
+ {
+  "n": 225,
+  "publish": "2026-12-10",
+  "slug": "tip-26",
+  "title": "מסיבות בגשם: האם הולכים",
+  "category": "טיפים ומדריכים",
+  "keyword": "מסיבות בגשם: האם הולכים",
+  "status": "topic"
+ },
+ {
+  "n": 226,
+  "publish": "2026-12-11",
+  "slug": "venue-beit-haam-guide",
+  "title": "בית העם: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "בית העם",
+  "status": "topic"
+ },
+ {
+  "n": 227,
+  "publish": "2026-12-11",
+  "slug": "genre-dubstep-first-time",
+  "title": "פעם ראשונה במסיבת דאבסטפ: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת דאבסטפ פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 228,
+  "publish": "2026-12-11",
+  "slug": "city-ashdod-free",
+  "title": "מסיבות בחינם באשדוד: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם אשדוד",
+  "status": "topic"
+ },
+ {
+  "n": 229,
+  "publish": "2026-12-11",
+  "slug": "festival-river-party-guide",
+  "title": "מסיבות נחל: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות נחל",
+  "status": "topic"
+ },
+ {
+  "n": 230,
+  "publish": "2026-12-11",
+  "slug": "abroad-rio-nightlife",
+  "title": "חיי לילה בריו: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה ריו",
+  "status": "topic"
+ },
+ {
+  "n": 231,
+  "publish": "2026-12-12",
+  "slug": "tip-27",
+  "title": "מסיבות בחורף: איך נשארים חמים",
+  "category": "טיפים ומדריכים",
+  "keyword": "מסיבות בחורף: איך נשארים חמים",
+  "status": "topic"
+ },
+ {
+  "n": 232,
+  "publish": "2026-12-12",
+  "slug": "venue-beit-haam-tips",
+  "title": "בית העם: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "בית העם טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 233,
+  "publish": "2026-12-12",
+  "slug": "genre-mainstream-intro",
+  "title": "מהו מיינסטרים? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה מיינסטרים",
+  "status": "topic"
+ },
+ {
+  "n": 234,
+  "publish": "2026-12-12",
+  "slug": "city-jaffa-nightlife",
+  "title": "חיי לילה ביפו: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה יפו",
+  "status": "topic"
+ },
+ {
+  "n": 235,
+  "publish": "2026-12-12",
+  "slug": "festival-river-party-packing",
+  "title": "מסיבות נחל: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "מסיבות נחל ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 236,
+  "publish": "2026-12-13",
+  "slug": "abroad-bangkok-nightlife",
+  "title": "חיי לילה בבנגקוק: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה בנגקוק",
+  "status": "topic"
+ },
+ {
+  "n": 237,
+  "publish": "2026-12-13",
+  "slug": "tip-28",
+  "title": "מסיבות בקיץ: חום, מים והגנה",
+  "category": "טיפים ומדריכים",
+  "keyword": "מסיבות בקיץ: חום, מים והגנה",
+  "status": "topic"
+ },
+ {
+  "n": 238,
+  "publish": "2026-12-13",
+  "slug": "venue-hangar-11-guide",
+  "title": "האנגר 11: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "האנגר 11",
+  "status": "topic"
+ },
+ {
+  "n": 239,
+  "publish": "2026-12-13",
+  "slug": "genre-mainstream-israel",
+  "title": "מסיבות מיינסטרים בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות מיינסטרים",
+  "status": "topic"
+ },
+ {
+  "n": 240,
+  "publish": "2026-12-13",
+  "slug": "city-jaffa-weekend",
+  "title": "סוף שבוע ביפו: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות יפו",
+  "status": "topic"
+ },
+ {
+  "n": 241,
+  "publish": "2026-12-14",
+  "slug": "festival-rooftop-fest-guide",
+  "title": "פסטיבלי גג: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבלי גג",
+  "status": "topic"
+ },
+ {
+  "n": 242,
+  "publish": "2026-12-14",
+  "slug": "abroad-lisbon-nightlife",
+  "title": "חיי לילה בליסבון: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה ליסבון",
+  "status": "topic"
+ },
+ {
+  "n": 243,
+  "publish": "2026-12-14",
+  "slug": "tip-29",
+  "title": "איך חוסכים כסף בלילה בחוץ",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך חוסכים כסף בלילה בחוץ",
+  "status": "topic"
+ },
+ {
+  "n": 244,
+  "publish": "2026-12-14",
+  "slug": "venue-hangar-11-tips",
+  "title": "האנגר 11: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "האנגר 11 טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 245,
+  "publish": "2026-12-14",
+  "slug": "genre-mainstream-first-time",
+  "title": "פעם ראשונה במסיבת מיינסטרים: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת מיינסטרים פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 246,
+  "publish": "2026-12-15",
+  "slug": "city-jaffa-free",
+  "title": "מסיבות בחינם ביפו: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם יפו",
+  "status": "topic"
+ },
+ {
+  "n": 247,
+  "publish": "2026-12-15",
+  "slug": "festival-rooftop-fest-packing",
+  "title": "פסטיבלי גג: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבלי גג ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 248,
+  "publish": "2026-12-15",
+  "slug": "abroad-barcelona-nightlife",
+  "title": "חיי לילה בברצלונה: ממה להיזהר ואיפה כדאי",
+  "category": "חו״ל",
+  "keyword": "חיי לילה ברצלונה",
+  "status": "topic"
+ },
+ {
+  "n": 249,
+  "publish": "2026-12-15",
+  "slug": "tip-30",
+  "title": "מסיבות עם חניה קלה: איך בוחרים",
+  "category": "טיפים ומדריכים",
+  "keyword": "מסיבות עם חניה קלה: איך בוחרים",
+  "status": "topic"
+ },
+ {
+  "n": 250,
+  "publish": "2026-12-15",
+  "slug": "venue-rooftop-tlv-guide",
+  "title": "מסיבות גג בתל אביב: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "מסיבות גג בתל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 251,
+  "publish": "2026-12-16",
+  "slug": "genre-hip-hop-intro",
+  "title": "מהו היפ הופ? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה היפ הופ",
+  "status": "topic"
+ },
+ {
+  "n": 252,
+  "publish": "2026-12-16",
+  "slug": "city-arava-nightlife",
+  "title": "חיי לילה בהערבה: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה הערבה",
+  "status": "topic"
+ },
+ {
+  "n": 253,
+  "publish": "2026-12-16",
+  "slug": "festival-one-day-fest-guide",
+  "title": "פסטיבל חד יומי: מדריך הכנה מלא",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל חד יומי",
+  "status": "topic"
+ },
+ {
+  "n": 254,
+  "publish": "2026-12-16",
+  "slug": "tip-31",
+  "title": "הזמנת שולחן: מתי זה שווה",
+  "category": "טיפים ומדריכים",
+  "keyword": "הזמנת שולחן: מתי זה שווה",
+  "status": "topic"
+ },
+ {
+  "n": 255,
+  "publish": "2026-12-16",
+  "slug": "venue-rooftop-tlv-tips",
+  "title": "מסיבות גג בתל אביב: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "מסיבות גג בתל אביב טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 256,
+  "publish": "2026-12-17",
+  "slug": "genre-hip-hop-israel",
+  "title": "מסיבות היפ הופ בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות היפ הופ",
+  "status": "topic"
+ },
+ {
+  "n": 257,
+  "publish": "2026-12-17",
+  "slug": "city-arava-weekend",
+  "title": "סוף שבוע בהערבה: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות הערבה",
+  "status": "topic"
+ },
+ {
+  "n": 258,
+  "publish": "2026-12-17",
+  "slug": "festival-one-day-fest-packing",
+  "title": "פסטיבל חד יומי: ציוד, לבוש ורשימת קניות",
+  "category": "פסטיבלים",
+  "keyword": "פסטיבל חד יומי ציוד",
+  "status": "topic"
+ },
+ {
+  "n": 259,
+  "publish": "2026-12-17",
+  "slug": "tip-32",
+  "title": "אירוע סודי: איך מקבלים את המיקום",
+  "category": "טיפים ומדריכים",
+  "keyword": "אירוע סודי: איך מקבלים את המיקום",
+  "status": "topic"
+ },
+ {
+  "n": 260,
+  "publish": "2026-12-17",
+  "slug": "venue-beach-clubs-guide",
+  "title": "מועדוני חוף: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "מועדוני חוף",
+  "status": "topic"
+ },
+ {
+  "n": 261,
+  "publish": "2026-12-18",
+  "slug": "genre-hip-hop-first-time",
+  "title": "פעם ראשונה במסיבת היפ הופ: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת היפ הופ פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 262,
+  "publish": "2026-12-18",
+  "slug": "city-arava-free",
+  "title": "מסיבות בחינם בהערבה: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם הערבה",
+  "status": "topic"
+ },
+ {
+  "n": 263,
+  "publish": "2026-12-18",
+  "slug": "tip-33",
+  "title": "סימנים לאירוע מאורגן היטב",
+  "category": "טיפים ומדריכים",
+  "keyword": "סימנים לאירוע מאורגן היטב",
+  "status": "topic"
+ },
+ {
+  "n": 264,
+  "publish": "2026-12-18",
+  "slug": "venue-beach-clubs-tips",
+  "title": "מועדוני חוף: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "מועדוני חוף טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 265,
+  "publish": "2026-12-18",
+  "slug": "genre-mizrahit-intro",
+  "title": "מהו מזרחית? מדריך למתחילים ולסקרנים",
+  "category": "ז׳אנרים",
+  "keyword": "מה זה מזרחית",
+  "status": "topic"
+ },
+ {
+  "n": 266,
+  "publish": "2026-12-19",
+  "slug": "city-galilee-nightlife",
+  "title": "חיי לילה בהגליל: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה הגליל",
+  "status": "topic"
+ },
+ {
+  "n": 267,
+  "publish": "2026-12-19",
+  "slug": "tip-34",
+  "title": "איך מדווחים על בעיה באירוע",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מדווחים על בעיה באירוע",
+  "status": "topic"
+ },
+ {
+  "n": 268,
+  "publish": "2026-12-19",
+  "slug": "venue-wine-bars-guide",
+  "title": "ברי יין: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "ברי יין",
+  "status": "topic"
+ },
+ {
+  "n": 269,
+  "publish": "2026-12-19",
+  "slug": "genre-mizrahit-israel",
+  "title": "מסיבות מזרחית בישראל: איפה ומתי",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבות מזרחית",
+  "status": "topic"
+ },
+ {
+  "n": 270,
+  "publish": "2026-12-19",
+  "slug": "city-galilee-weekend",
+  "title": "סוף שבוע בהגליל: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות הגליל",
+  "status": "topic"
+ },
+ {
+  "n": 271,
+  "publish": "2026-12-20",
+  "slug": "tip-35",
+  "title": "מה זה גיל כניסה ומה בודקים בדלת",
+  "category": "טיפים ומדריכים",
+  "keyword": "מה זה גיל כניסה ומה בודקים בדלת",
+  "status": "topic"
+ },
+ {
+  "n": 272,
+  "publish": "2026-12-20",
+  "slug": "venue-wine-bars-tips",
+  "title": "ברי יין: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "ברי יין טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 273,
+  "publish": "2026-12-20",
+  "slug": "genre-mizrahit-first-time",
+  "title": "פעם ראשונה במסיבת מזרחית: מה לצפות",
+  "category": "ז׳אנרים",
+  "keyword": "מסיבת מזרחית פעם ראשונה",
+  "status": "topic"
+ },
+ {
+  "n": 274,
+  "publish": "2026-12-20",
+  "slug": "city-galilee-free",
+  "title": "מסיבות בחינם בהגליל: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם הגליל",
+  "status": "topic"
+ },
+ {
+  "n": 275,
+  "publish": "2026-12-20",
+  "slug": "tip-36",
+  "title": "צ'ק ליסט לפני שיוצאים",
+  "category": "טיפים ומדריכים",
+  "keyword": "צ'ק ליסט לפני שיוצאים",
+  "status": "topic"
+ },
+ {
+  "n": 276,
+  "publish": "2026-12-21",
+  "slug": "new-year-tel-aviv",
+  "title": "סילבסטר בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "סילבסטר תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 277,
+  "publish": "2026-12-21",
+  "slug": "venue-secret-venues-guide",
+  "title": "מקומות סודיים: מה צריך לדעת לפני שמגיעים",
+  "category": "מקומות",
+  "keyword": "מקומות סודיים",
+  "status": "topic"
+ },
+ {
+  "n": 278,
+  "publish": "2026-12-21",
+  "slug": "city-golan-nightlife",
+  "title": "חיי לילה בהגולן: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה הגולן",
+  "status": "topic"
+ },
+ {
+  "n": 279,
+  "publish": "2026-12-21",
+  "slug": "tip-37",
+  "title": "איך משתמשים בווטסאפ כדי לקבל עדכוני אירועים",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך משתמשים בווטסאפ כדי לקבל עדכוני אירועים",
+  "status": "topic"
+ },
+ {
+  "n": 280,
+  "publish": "2026-12-21",
+  "slug": "venue-secret-venues-tips",
+  "title": "מקומות סודיים: טיפים לערב מוצלח (כניסה, תור, שעות)",
+  "category": "מקומות",
+  "keyword": "מקומות סודיים טיפים",
+  "status": "topic"
+ },
+ {
+  "n": 281,
+  "publish": "2026-12-22",
+  "slug": "city-golan-weekend",
+  "title": "סוף שבוע בהגולן: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות הגולן",
+  "status": "topic"
+ },
+ {
+  "n": 282,
+  "publish": "2026-12-22",
+  "slug": "tip-38",
+  "title": "קבוצות ווטסאפ למסיבות: איך בוחרים",
+  "category": "טיפים ומדריכים",
+  "keyword": "קבוצות ווטסאפ למסיבות: איך בוחרים",
+  "status": "topic"
+ },
+ {
+  "n": 283,
+  "publish": "2026-12-22",
+  "slug": "city-golan-free",
+  "title": "מסיבות בחינם בהגולן: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם הגולן",
+  "status": "topic"
+ },
+ {
+  "n": 284,
+  "publish": "2026-12-22",
+  "slug": "tip-39",
+  "title": "איך מוצאים מסיבה לפי תקציב",
+  "category": "טיפים ומדריכים",
+  "keyword": "איך מוצאים מסיבה לפי תקציב",
+  "status": "topic"
+ },
+ {
+  "n": 285,
+  "publish": "2026-12-22",
+  "slug": "city-dead-sea-nightlife",
+  "title": "חיי לילה בים המלח: המדריך המלא",
+  "category": "ערים",
+  "keyword": "חיי לילה ים המלח",
+  "status": "topic"
+ },
+ {
+  "n": 286,
+  "publish": "2026-12-23",
+  "slug": "tip-40",
+  "title": "שעות הפתיחה הנפוצות של מסיבות",
+  "category": "טיפים ומדריכים",
+  "keyword": "שעות הפתיחה הנפוצות של מסיבות",
+  "status": "topic"
+ },
+ {
+  "n": 287,
+  "publish": "2026-12-23",
+  "slug": "city-dead-sea-weekend",
+  "title": "סוף שבוע בים המלח: מסיבות ואירועים",
+  "category": "ערים",
+  "keyword": "מסיבות ים המלח",
+  "status": "topic"
+ },
+ {
+  "n": 288,
+  "publish": "2026-12-23",
+  "slug": "city-dead-sea-free",
+  "title": "מסיבות בחינם בים המלח: איך נכנסים בלי לשלם",
+  "category": "ערים",
+  "keyword": "כניסה חינם ים המלח",
+  "status": "topic"
+ },
+ {
+  "n": 289,
+  "publish": "2026-12-26",
+  "slug": "tu-bishvat-tickets-tips",
+  "title": "כרטיסים למסיבות ט״ו בשבט: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים ט״ו בשבט",
+  "status": "topic"
+ },
+ {
+  "n": 290,
+  "publish": "2027-01-02",
+  "slug": "tu-bishvat-parties-guide",
+  "title": "מסיבות ט״ו בשבט: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות ט״ו בשבט",
+  "status": "topic"
+ },
+ {
+  "n": 291,
+  "publish": "2027-01-13",
+  "slug": "tu-bishvat-tel-aviv",
+  "title": "ט״ו בשבט בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "ט״ו בשבט תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 292,
+  "publish": "2027-01-17",
+  "slug": "valentines-tickets-tips",
+  "title": "כרטיסים למסיבות ולנטיינס: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים ולנטיינס",
+  "status": "topic"
+ },
+ {
+  "n": 293,
+  "publish": "2027-01-24",
+  "slug": "valentines-parties-guide",
+  "title": "מסיבות ולנטיינס: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות ולנטיינס",
+  "status": "topic"
+ },
+ {
+  "n": 294,
+  "publish": "2027-02-04",
+  "slug": "valentines-tel-aviv",
+  "title": "ולנטיינס בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "ולנטיינס תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 295,
+  "publish": "2027-02-23",
+  "slug": "purim-tickets-tips",
+  "title": "כרטיסים למסיבות פורים: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים פורים",
+  "status": "topic"
+ },
+ {
+  "n": 296,
+  "publish": "2027-03-02",
+  "slug": "purim-parties-guide",
+  "title": "מסיבות פורים: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות פורים",
+  "status": "topic"
+ },
+ {
+  "n": 297,
+  "publish": "2027-03-13",
+  "slug": "purim-tel-aviv",
+  "title": "פורים בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "פורים תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 298,
+  "publish": "2027-03-25",
+  "slug": "passover-tickets-tips",
+  "title": "כרטיסים למסיבות פסח: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים פסח",
+  "status": "topic"
+ },
+ {
+  "n": 299,
+  "publish": "2027-04-01",
+  "slug": "passover-parties-guide",
+  "title": "מסיבות פסח: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות פסח",
+  "status": "topic"
+ },
+ {
+  "n": 300,
+  "publish": "2027-04-12",
+  "slug": "passover-tel-aviv",
+  "title": "פסח בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "פסח תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 301,
+  "publish": "2027-04-14",
+  "slug": "independence-day-tickets-tips",
+  "title": "כרטיסים למסיבות יום העצמאות: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים יום העצמאות",
+  "status": "topic"
+ },
+ {
+  "n": 302,
+  "publish": "2027-04-21",
+  "slug": "independence-day-parties-guide",
+  "title": "מסיבות יום העצמאות: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות יום העצמאות",
+  "status": "topic"
+ },
+ {
+  "n": 303,
+  "publish": "2027-04-27",
+  "slug": "lag-baomer-tickets-tips",
+  "title": "כרטיסים למסיבות ל״ג בעומר: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים ל״ג בעומר",
+  "status": "topic"
+ },
+ {
+  "n": 304,
+  "publish": "2027-05-02",
+  "slug": "independence-day-tel-aviv",
+  "title": "יום העצמאות בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "יום העצמאות תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 305,
+  "publish": "2027-05-04",
+  "slug": "summer-opening-tickets-tips",
+  "title": "כרטיסים למסיבות פתיחת הקיץ: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים פתיחת הקיץ",
+  "status": "topic"
+ },
+ {
+  "n": 306,
+  "publish": "2027-05-04",
+  "slug": "lag-baomer-parties-guide",
+  "title": "מסיבות ל״ג בעומר: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות ל״ג בעומר",
+  "status": "topic"
+ },
+ {
+  "n": 307,
+  "publish": "2027-05-11",
+  "slug": "summer-opening-parties-guide",
+  "title": "מסיבות פתיחת הקיץ: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות פתיחת הקיץ",
+  "status": "topic"
+ },
+ {
+  "n": 308,
+  "publish": "2027-05-14",
+  "slug": "shavuot-tickets-tips",
+  "title": "כרטיסים למסיבות שבועות: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים שבועות",
+  "status": "topic"
+ },
+ {
+  "n": 309,
+  "publish": "2027-05-15",
+  "slug": "lag-baomer-tel-aviv",
+  "title": "ל״ג בעומר בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "ל״ג בעומר תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 310,
+  "publish": "2027-05-21",
+  "slug": "shavuot-parties-guide",
+  "title": "מסיבות שבועות: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות שבועות",
+  "status": "topic"
+ },
+ {
+  "n": 311,
+  "publish": "2027-05-22",
+  "slug": "summer-opening-tel-aviv",
+  "title": "פתיחת הקיץ בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "פתיחת הקיץ תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 312,
+  "publish": "2027-06-01",
+  "slug": "shavuot-tel-aviv",
+  "title": "שבועות בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "שבועות תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 313,
+  "publish": "2027-07-21",
+  "slug": "tu-bav-tickets-tips",
+  "title": "כרטיסים למסיבות ט״ו באב: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים ט״ו באב",
+  "status": "topic"
+ },
+ {
+  "n": 314,
+  "publish": "2027-07-28",
+  "slug": "tu-bav-parties-guide",
+  "title": "מסיבות ט״ו באב: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות ט״ו באב",
+  "status": "topic"
+ },
+ {
+  "n": 315,
+  "publish": "2027-08-08",
+  "slug": "tu-bav-tel-aviv",
+  "title": "ט״ו באב בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "ט״ו באב תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 316,
+  "publish": "2027-09-04",
+  "slug": "rosh-hashana-tickets-tips",
+  "title": "כרטיסים למסיבות ראש השנה: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים ראש השנה",
+  "status": "topic"
+ },
+ {
+  "n": 317,
+  "publish": "2027-09-11",
+  "slug": "rosh-hashana-parties-guide",
+  "title": "מסיבות ראש השנה: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות ראש השנה",
+  "status": "topic"
+ },
+ {
+  "n": 318,
+  "publish": "2027-09-18",
+  "slug": "sukkot-tickets-tips",
+  "title": "כרטיסים למסיבות סוכות: מתי קונים ומה כדאי לבדוק",
+  "category": "כרטיסים",
+  "keyword": "כרטיסים סוכות",
+  "status": "topic"
+ },
+ {
+  "n": 319,
+  "publish": "2027-09-22",
+  "slug": "rosh-hashana-tel-aviv",
+  "title": "ראש השנה בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "ראש השנה תל אביב",
+  "status": "topic"
+ },
+ {
+  "n": 320,
+  "publish": "2027-09-25",
+  "slug": "sukkot-parties-guide",
+  "title": "מסיבות סוכות: המדריך המלא לאירועים הכי טובים",
+  "category": "חגים",
+  "keyword": "מסיבות סוכות",
+  "status": "topic"
+ },
+ {
+  "n": 321,
+  "publish": "2027-10-06",
+  "slug": "sukkot-tel-aviv",
+  "title": "סוכות בתל אביב: לאן יוצאים ואיך מתכננים",
+  "category": "חגים",
+  "keyword": "סוכות תל אביב",
+  "status": "topic"
+ }
+]
