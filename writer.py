@@ -60,3 +60,4 @@ for t in due[:N]:
             print("retry", t["slug"], e)
 (ROOT / "data/articles.json").write_text(json.dumps(arts, ensure_ascii=False, indent=1), encoding="utf-8")
 print(f"done: {written} new articles, {len(arts)} total")
+if due and not written: sys.exit("error: articles were due but none were written")
