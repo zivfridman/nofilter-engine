@@ -1,0 +1,26 @@
+name: deploy
+# Builds dist/ and deploys it to Netlify with the CLI on every push to main.
+# Netlify's own git builds are not used (its free plan blocks commits from unrecognised authors).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_call:
+concurrency: { group: deploy, cancel-in-progress: true }
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - name: build
+        env: { SITE_URL: "${{ vars.SITE_URL }}" }
+        run: python3 build.py
+      - name: deploy to netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: npx --yes netlify-cli@17 deploy --prod --dir=dist --message "deploy ${{ github.sha }}"

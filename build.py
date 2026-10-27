@@ -84,7 +84,10 @@ def page(title, desc, path, ld=None, pre=None, body_extra=None, og_type="website
             + head + "\n" + "\n".join(extra) + "\n</head>\n<body>\n" + body + "\n</body>\n</html>\n")
 
 def write(path, content):
-    f = dist / path.strip("/") / "index.html" if path != "/" else dist / "index.html"
+    # /news/<slug> -> dist/news/<slug>.html so Netlify serves the slash-less URL directly (no redirect); /news -> dist/news/index.html
+    if path == "/": f = dist / "index.html"
+    elif path.count("/") == 1: f = dist / path.strip("/") / "index.html"
+    else: f = dist / (path.strip("/") + ".html")
     f.parent.mkdir(parents=True, exist_ok=True); f.write_text(content, encoding="utf-8")
 
 ORG = {"@type": "Organization", "name": BRAND, "url": SITE_URL + "/", "logo": SITE_URL + "/logo.png"}
