@@ -1221,7 +1221,7 @@ function renderArticle(slug){const a=ARTICLES.find(x=>x.slug===slug);if(!a){loca
  if(a.faq)ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:a.faq.map(([q,t])=>({"@type":"Question",name:q,acceptedAnswer:{"@type":"Answer",text:t}}))});
  setSEO(a.title+" | בְּלִי פִילְטֵרִים",a.desc,url,ld);}
 
-function route(){let h=location.hash||"#top";try{h=decodeURIComponent(h);}catch(_){}if(CAT_ALIAS[h]){location.replace("#cat-"+CAT_ALIAS[h]);return;}if(h==="#cat-news"){location.replace("#news");return;}if(h==="#add"){location.replace("#top");return;}const views={"#djs":"view-djs","#news":"view-news"};let v=views[h];if(h==="#news")renderNews();if(h.startsWith("#article-")){v="view-article";renderArticle(h.slice(9));}if(!h.startsWith("#article-")&&h!=="#news")resetSEO();if(h.startsWith("#cat-")){v="view-cat";renderCat(h.slice(5));}if(h.startsWith("#dj-")){v="view-dj";renderDJ(h.slice(4));}if(h.startsWith("#event-")){v="view-event";renderEvent(h.slice(7));}
+function route(){let h=location.hash||(window.__PRE&&window.__PRE.hash)||"#top";try{h=decodeURIComponent(h);}catch(_){}if(CAT_ALIAS[h]){location.replace("#cat-"+CAT_ALIAS[h]);return;}if(h==="#cat-news"){location.replace("#news");return;}if(h==="#add"){location.replace("#top");return;}const views={"#djs":"view-djs","#news":"view-news"};let v=views[h];if(h==="#news")renderNews();if(h.startsWith("#article-")){v="view-article";renderArticle(h.slice(9));}if(!h.startsWith("#article-")&&h!=="#news")resetSEO();if(h.startsWith("#cat-")){v="view-cat";renderCat(h.slice(5));}if(h.startsWith("#dj-")){v="view-dj";renderDJ(h.slice(4));}if(h.startsWith("#event-")){v="view-event";renderEvent(h.slice(7));}
  document.querySelectorAll(".view").forEach(x=>x.classList.toggle("on",x.id===v));mainEl.classList.toggle("off",!!v);
  if(v)window.scrollTo({top:0});else{const t=document.querySelector(h);if(t&&h!=="#top")t.scrollIntoView();}}
 window.addEventListener("hashchange",route);
@@ -1334,7 +1334,7 @@ const Enh={cache:new Map(),
   d.data.set(o);x.putImageData(d,0,0);
   const url=await new Promise(r=>c.toBlob(b=>r(URL.createObjectURL(b)),"image/jpeg",0.92));
   this.cache.set(src,url);return url;},
- async all(){let n=0;const list=EVENTS.filter(e=>e.img&&e.img.startsWith("data:"));
+ async all(){let n=0;const list=EVENTS.filter(e=>e.img&&(e.img.startsWith("data:")||e.img.startsWith("/")));
   for(const e of list){try{const u=await this.one(e.img);if(u!==e.img){e.img_orig=e.img;e.img=u;n++;}}catch(_){}await new Promise(r=>setTimeout(r,0));}
   if(n){try{renderLists();renderHot();renderPromo();renderWk();const h=decodeURIComponent(location.hash||"");if(h.startsWith("#cat-"))renderCat(h.slice(5));else if(h.startsWith("#event-"))renderEvent(h.slice(7));else if(h.startsWith("#dj-"))renderDJ(h.slice(4));}catch(_){}}
   window.__enhanced=n;return n;}};
