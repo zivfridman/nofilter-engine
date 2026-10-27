@@ -42,6 +42,10 @@ dist.mkdir()
 (dist / "index.html").write_text(html, encoding="utf-8")
 if (ROOT / "data" / "posters").exists():
     shutil.copytree(ROOT / "data" / "posters", dist / "posters")
+for f in ["favicon.png", "apple-touch-icon.png", "og.jpg", "logo.png"]:
+    if (ROOT / "data" / f).exists(): shutil.copy(ROOT / "data" / f, dist / f)
+html2 = (dist / "index.html").read_text(encoding="utf-8").replace('content="/og.jpg"', f'content="{SITE_URL}/og.jpg"')
+(dist / "index.html").write_text(html2, encoding="utf-8")
 (dist / "_redirects").write_text("/news/*  /index.html  200\n/news  /index.html  200\n/event/*  /index.html  200\n/dj/*  /index.html  200\n/cat/*  /index.html  200\n")
 (dist / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
 (dist / "404.html").write_text('<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/">')
