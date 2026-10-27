@@ -41,7 +41,7 @@ dist = ROOT / "dist"
 if dist.exists(): shutil.rmtree(dist)
 (dist / "assets").mkdir(parents=True)
 if (ROOT / "data" / "posters").exists(): shutil.copytree(ROOT / "data" / "posters", dist / "posters")
-for f in ["favicon.png", "apple-touch-icon.png", "og.jpg", "logo.png"]:
+for f in ["favicon.png", "apple-touch-icon.png", "og.jpg", "logo.png", "google775a7364d70e24bc.html"]:
     if (ROOT / "data" / f).exists(): shutil.copy(ROOT / "data" / f, dist / f)
 
 # ---- template: split head/body, externalize big base64 images
