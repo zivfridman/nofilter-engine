@@ -902,7 +902,7 @@ const slugify=t=>t.toLowerCase().replace(/[^\p{L}\p{N}]+/gu,"-").replace(/^-|-$/
 const E=(name,date,tags,bg,opts={})=>({name,date,tags,bg,free:!!opts.free,venue:opts.venue||"תל אביב",city:opts.city||"תל אביב",ink:opts.ink||"#fff",lineup:opts.lineup||[],price:opts.price??null,start:opts.start||"23:00",end:opts.end||"",ticket:opts.ticket||"#",src:opts.src||"",img:opts.img||"",age:opts.age||18,desc:opts.desc||"",address:opts.address||"",tags2:opts.tags2||[],slug:opts.slug||slugify(name),is_pick:!!opts.pick});
 const ASSETS={"@BANNER_FLORIDA":BANNER_FLORIDA,"@POSTER_FLORIDA":POSTER_FLORIDA,"@POSTER_SHALVATA":POSTER_SHALVATA};const resolveImg=v=>!v?"":v.startsWith("P:")?(P[v.slice(2)]||""):(ASSETS[v]||v);
 let EVENTS=/*@@EVENTS@@*/[];EVENTS=EVENTS.map(o=>E(o.name,o.date,o.tags,o.bg,{...o,img:resolveImg(o.img)}));
-try{const saved=JSON.parse(localStorage.getItem("bf_events")||"[]");if(Array.isArray(saved))EVENTS=EVENTS.concat(saved);}catch(e){}
+
 const TODAY=new Date().toISOString().slice(0,10);
 const DAYS=["ראשון","שני","שלישי","רביעי","חמישי","שישי","שבת"];
 const fmtWhen=d=>{const x=new Date(d+"T12:00:00");return `יום ${DAYS[x.getDay()]} · ${x.getDate()}.${x.getMonth()+1}`;};
@@ -1151,7 +1151,7 @@ function renderEvent(slug){const e=EVENTS.find(x=>x.slug===slug);if(!e)return lo
 
 /* ---- promo banners: shown only between show_from and show_until (Asia/Jerusalem) ---- */
 let BANNERS=/*@@BANNERS@@*/[];BANNERS=BANNERS.map(b=>({...b,img:resolveImg(b.img)}));
-try{const sb=JSON.parse(localStorage.getItem("bf_banners")||"[]");if(Array.isArray(sb))BANNERS=BANNERS.concat(sb);}catch(e){}
+
 function renderPromo(){const now=NOW();const live=BANNERS.filter(b=>new Date(b.show_from+"T00:00:00")<=now&&now<=new Date(b.show_until+"T23:59:59")).sort((a,b)=>a.sort-b.sort);
  const circ=e=>{if(!e)return"";return (e.lineup||[]).map(l=>DJS.find(d=>djMatches(d,{name:"",lineup:[l]}))).filter((d,i,arr)=>d&&arr.indexOf(d)===i).slice(0,10).map(d=>{const n=djNext(d);const today=n&&n.date===TODAYIL();return `<a class="pc" href="#dj-${d.slug}">${ava(d)}${today?'<em>היום</em>':''}<span>${d.en}</span></a>`;}).join("");};
  $("promo").innerHTML=(live.length>1?`<style>#promo::after{content:"";flex:0 0 1px}</style>`:"")+live.map((b,k)=>{const slug=(b.link||"").replace("#event-","");const e=EVENTS.find(x=>x.slug===slug);const desc=e&&e.desc?e.desc.slice(0,190).replace(/\s+\S*$/,"")+"…":(b.subtitle||"");
@@ -1217,7 +1217,7 @@ function renderArticle(slug){const a=ARTICLES.find(x=>x.slug===slug);if(!a){loca
  if(a.faq)ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:a.faq.map(([q,t])=>({"@type":"Question",name:q,acceptedAnswer:{"@type":"Answer",text:t}}))});
  setSEO(a.title+" | בְּלִי פִילְטֵרִים",a.desc,url,ld);}
 
-function route(){let h=location.hash||"#top";try{h=decodeURIComponent(h);}catch(_){}if(CAT_ALIAS[h]){location.replace("#cat-"+CAT_ALIAS[h]);return;}if(h==="#cat-news"){location.replace("#news");return;}const views={"#djs":"view-djs","#add":"view-add","#news":"view-news"};let v=views[h];if(h==="#news")renderNews();if(h.startsWith("#article-")){v="view-article";renderArticle(h.slice(9));}if(!h.startsWith("#article-")&&h!=="#news")resetSEO();if(h.startsWith("#cat-")){v="view-cat";renderCat(h.slice(5));}if(h.startsWith("#dj-")){v="view-dj";renderDJ(h.slice(4));}if(h.startsWith("#event-")){v="view-event";renderEvent(h.slice(7));}
+function route(){let h=location.hash||"#top";try{h=decodeURIComponent(h);}catch(_){}if(CAT_ALIAS[h]){location.replace("#cat-"+CAT_ALIAS[h]);return;}if(h==="#cat-news"){location.replace("#news");return;}if(h==="#add"){location.replace("#top");return;}const views={"#djs":"view-djs","#news":"view-news"};let v=views[h];if(h==="#news")renderNews();if(h.startsWith("#article-")){v="view-article";renderArticle(h.slice(9));}if(!h.startsWith("#article-")&&h!=="#news")resetSEO();if(h.startsWith("#cat-")){v="view-cat";renderCat(h.slice(5));}if(h.startsWith("#dj-")){v="view-dj";renderDJ(h.slice(4));}if(h.startsWith("#event-")){v="view-event";renderEvent(h.slice(7));}
  document.querySelectorAll(".view").forEach(x=>x.classList.toggle("on",x.id===v));mainEl.classList.toggle("off",!!v);
  if(v)window.scrollTo({top:0});else{const t=document.querySelector(h);if(t&&h!=="#top")t.scrollIntoView();}}
 window.addEventListener("hashchange",route);
