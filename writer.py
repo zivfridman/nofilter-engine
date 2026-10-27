@@ -17,6 +17,14 @@ have = {a["slug"] for a in arts}
 EMBED = {"חגים": "all", "כרטיסים": "all", "מקומות": "tlv", "ז׳אנרים": "techno", "ערים": "all", "פסטיבלים": "nature",
          "חו״ל": "all", "קהלים": "all", "טיפים ומדריכים": "all", "תרבות": "all", "המלצות השבוע": "picks", "ברזיל": "brazil", "קופנגן": "phangan"}
 
+CAT_NOTES = {
+ "מקומות": "אין לך מידע מאומת על המקום הזה. אל תכתוב קוד לבוש, שעות פתיחה, סגנון מוזיקה, מחירים או מיקום מדויק כעובדות. כתוב את הכתבה כמדריך 'מה לבדוק לפני שמגיעים' (איפה רואים את השעות, איך מגיעים למקום בכלל, מה לבדוק בעמוד האירוע) והפנה לאירועים הקרובים במקום בעמוד הקטגוריה באתר.",
+ "ערים": "אל תמציא שמות מועדונים או רחובות. דבר על סוגי מקומות ועל איך מוצאים אירועים בעיר דרך האתר.",
+ "חו״ל": "ציין שיש לבדוק דרישות ויזה, ביטוח וחוקי מקום באתרים רשמיים. אל תמציא מחירים.",
+ "ברזיל": "ציין שיש לבדוק דרישות ויזה, ביטוח וחוקי מקום באתרים רשמיים. אל תמציא מחירים.",
+ "קופנגן": "ציין שיש לבדוק דרישות ויזה, ביטוח וחוקי מקום באתרים רשמיים. אל תמציא מחירים או תאריכים.",
+ "פסטיבלים": "אל תמציא תאריכים, ליינאפ או מחירים. הפנה לעמוד הפסטיבל באתר לפרטים.",
+}
 SYSTEM = """אתה כותב התוכן של "בְּלִי פִילְטֵרִים" – אתר מסיבות ואירועי לילה בישראל. כתוב בעברית טבעית, בגוף שני רבים, ישיר וקצר, בלי קלישאות.
 כללים קשיחים:
 - מילים מקוריות בלבד. אין להעתיק משפטים מאתרים אחרים ואין להזכיר אתרים מתחרים.
@@ -31,13 +39,15 @@ SYSTEM = """אתה כותב התוכן של "בְּלִי פִילְטֵרִים
 
 def ask(topic):
     body = {"model": MODEL, "max_tokens": 3000, "system": SYSTEM,
-            "messages": [{"role": "user", "content": f"כותרת העבודה: {topic['title']}\nמילת מפתח: {topic['keyword']}\nקטגוריה: {topic['category']}\nכתוב את הכתבה."}]}
+            "messages": [{"role": "user", "content": f"כותרת העבודה: {topic['title']}\nמילת מפתח: {topic['keyword']}\nקטגוריה: {topic['category']}\n{CAT_NOTES.get(topic['category'], '')}\nכתוב את הכתבה."}]}
     req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=json.dumps(body).encode(),
                                  headers={"x-api-key": KEY, "anthropic-version": "2023-06-01", "content-type": "application/json"})
     with urllib.request.urlopen(req, timeout=180) as r:
         txt = json.loads(r.read())["content"][0]["text"]
     m = re.search(r"\{[\s\S]*\}", txt)
-    return json.loads(m.group(0))
+    a = json.loads(m.group(0))
+    a["title"] = re.sub(r"\s*\|.*$", "", a["title"]).strip()
+    return a
 
 def valid(a):
     words = len(re.findall(r"\S+", a["intro"] + " ".join(p for s in a["sections"] for p in s.get("p", []) + s.get("list", []))))
