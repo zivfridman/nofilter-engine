@@ -624,6 +624,8 @@ html.a11y-still .jb-photo *{animation:none!important;transition:none!important}
 .aevs .catgrid{margin-top:12px}
 
 #newsSoon{margin-top:34px}#newsSoon h2{font-size:20px}#newsSoon ul{list-style:none;padding:0;margin:10px 0;display:grid;gap:8px}#newsSoon li{padding:10px 14px;border-radius:14px;background:rgba(255,255,255,.05);color:var(--fg-2);font-size:15px}#newsSoon li span{color:var(--accent-hi);font-weight:800;margin-inline-end:8px}
+/* netlify badge: top-left, below the header (header ends ~104px on mobile, so 12px would cover the search/logo) */
+#nl-badge-frame{top:calc(112px + env(safe-area-inset-top,0px)) !important;left:12px !important;bottom:auto !important;right:auto !important}
 </style>
 
 <header class="hdr wrap">
