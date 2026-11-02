@@ -145,6 +145,8 @@ for e in events:
 
 # ---- static files
 (dist / "_redirects").write_text("/news/*  /index.html  200\n/event/*  /index.html  200\n/dj/*  /index.html  200\n/cat/*  /index.html  200\n")
+(dist / "CNAME").write_text(SITE_URL.split("//")[1] + "\n")
+(dist / ".nojekyll").write_text("")
 (dist / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
 (dist / "404.html").write_text('<!doctype html><html lang="he"><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/"></html>')
 urls = [("/", TODAY, "daily", "1.0"), ("/news", TODAY, "daily", "0.8")]
